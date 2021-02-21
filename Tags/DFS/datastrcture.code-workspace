@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/Users/zehao/Desktop/workspace/outofwork/data_structure_and_algorithm/算法/note"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"type_traits": "cpp",
+			"unordered_set": "cpp",
+			"iosfwd": "cpp",
+			"list": "cpp",
+			"iostream": "cpp",
+			"algorithm": "cpp",
+			"string": "cpp"
+		}
+	}
+}
